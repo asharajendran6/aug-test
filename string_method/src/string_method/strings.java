@@ -8,6 +8,8 @@ package string_method;
  *
  */
 public class strings {
+	
+	//next commit test
 
 	public static void main(String[] args) {
 	String s1 = "The Java Program";
